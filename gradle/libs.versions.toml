@@ -1,0 +1,5 @@
+[versions]
+groovy-all = "4.0.28"
+
+[libraries]
+groovy-all = { module = "org.apache.groovy:groovy-all", version.ref = "groovy-all" }
